@@ -1,0 +1,26 @@
+body{
+    background:url('imagenes/fondo/logo2.jpg') top center no-repeat fixed;
+    background-size:cover;
+}
+.jumbotron{
+	opacity: 0.8;
+}
+
+.footer{
+	width: 100%;
+	background: #011;
+	border-top: 1px #ccc solid;
+  position: fixed;
+	bottom: 0px;
+	padding: 10px;
+	text-align: center;
+  padding: 10px;
+  color: white;
+
+}
+.panel-presentacion
+{
+	position: relative;
+	top:50px;
+  
+}
